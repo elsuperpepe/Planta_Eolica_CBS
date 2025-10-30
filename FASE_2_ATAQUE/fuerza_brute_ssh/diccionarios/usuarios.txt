@@ -1,0 +1,14 @@
+admin
+root
+operator
+scada
+engineer
+juice
+user
+elpepe
+debian
+kali
+juiceshop
+
+
+
