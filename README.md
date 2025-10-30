@@ -72,8 +72,7 @@ Pentest_Planta_Eolica_CBS/
 ```bash
 # Uso: ./pentest_attack.sh <IP_TARGET>
 ./pentest_attack.sh 192.168.133.131
-
-
+```
 Funcionalidades:
 
     🔍 Portscan automático con Nmap
